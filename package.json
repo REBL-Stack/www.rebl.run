@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "blockstack": "^19.2.5",
-    "react": "^16.8.6",
-    "react-blockstack": "^0.5.0",
-    "react-dom": "^16.8.6",
+    "react": "^16.9.0",
+    "react-blockstack": "^0.5.6",
+    "react-dom": "^16.9.0",
     "react-router-dom": "^5.0.0"
   },
   "scripts": {
