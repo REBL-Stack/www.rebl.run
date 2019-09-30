@@ -1,5 +1,5 @@
-import React, {useEffect, useCallback} from 'react'
-import { useBlockstack, useFile } from 'react-blockstack'
+import React from 'react'
+import { useBlockstack } from 'react-blockstack'
 import Main from './Main.js'
 import Landing from './Landing.js'
 
