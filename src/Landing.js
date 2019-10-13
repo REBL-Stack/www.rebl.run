@@ -18,7 +18,7 @@ export default function Landing (props) {
         <div className="text-center">
           <p>
             The <a href="https://www.npmjs.com/package/react-blockstack">react-blockstack</a> package
-            for NPM makes it easy to create blockstacks app using modern React hooks.
+            for NPM makes it easy to create Blockstack apps using modern React hooks.
           </p>
 
          <p><a href={templateURL} target="_blank">Download</a> our app template and follow the instructions to get started.</p>
