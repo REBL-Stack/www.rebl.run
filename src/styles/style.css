@@ -1,1 +1,12 @@
 
+#App {
+  background-image: url(/media/arthur-edelman-YiZ_C5H0x5Y-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+#App .jumbotron {
+  opacity: 0.9;
+}
