@@ -8,9 +8,10 @@ export default function Auth () {
     return (
       <span>
         <span className="avatar ml-auto mr-5">
-          <img src={ (person && person.avatarUrl()) || avatarFallbackImage }
+         {person &&
+          <img src={ person.avatarUrl() || avatarFallbackImage }
                className="rounded-circle" id="avatar-image" alt="avatar"
-               style={{height: "32px"}}/>
+               style={{height: "32px"}}/>}
           <span className="ml-2">
             {(person && person.name())}
           </span>
