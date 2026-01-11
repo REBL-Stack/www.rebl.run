@@ -9,7 +9,7 @@
     "url": "git+https://github.com/njordhov/react-blockstack.git"
   },
   "dependencies": {
-    "blockstack": "^19.2.5",
+    "blockstack": "^19.3.0",
     "react": "^16.9.0",
     "react-blockstack": "^0.5.6",
     "react-dom": "^16.9.0",
